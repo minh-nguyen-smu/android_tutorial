@@ -44,5 +44,9 @@ public class DisplayMessageActivity extends Activity {
 		}
 		return super.onOptionsItemSelected(item);
 	}
+	
+	public boolean test() {
+		return true;
+	}
 
 }
